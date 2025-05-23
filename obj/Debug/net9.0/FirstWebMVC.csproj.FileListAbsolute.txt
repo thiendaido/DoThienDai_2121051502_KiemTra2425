@@ -1,0 +1,8 @@
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfoInputs.cache
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.AssemblyInfo.cs
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cache
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.RazorAssemblyInfo.cs
+C:\Users\THIEN DAI\Desktop\FirstWebMVC\obj\Debug\net9.0\FirstWebMVC.sourcelink.json
