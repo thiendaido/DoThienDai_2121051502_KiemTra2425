@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\THIEN DAI\\Desktop\\bài thực hành  ptpmql\\FirstWebMVC\\FirstWebMVC.csproj": {}
+    "C:\\Users\\THIEN DAI\\Desktop\\FirstWebMVC\\FirstWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\THIEN DAI\\Desktop\\bài thực hành  ptpmql\\FirstWebMVC\\FirstWebMVC.csproj": {
+    "C:\\Users\\THIEN DAI\\Desktop\\FirstWebMVC\\FirstWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\THIEN DAI\\Desktop\\bài thực hành  ptpmql\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\THIEN DAI\\Desktop\\FirstWebMVC\\FirstWebMVC.csproj",
         "projectName": "FirstWebMVC",
-        "projectPath": "C:\\Users\\THIEN DAI\\Desktop\\bài thực hành  ptpmql\\FirstWebMVC\\FirstWebMVC.csproj",
+        "projectPath": "C:\\Users\\THIEN DAI\\Desktop\\FirstWebMVC\\FirstWebMVC.csproj",
         "packagesPath": "C:\\Users\\THIEN DAI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\THIEN DAI\\Desktop\\bài thực hành  ptpmql\\FirstWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\THIEN DAI\\Desktop\\FirstWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\THIEN DAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
